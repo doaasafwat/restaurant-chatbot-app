@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214911724146",
+    "project_id": "cashierbot-for-restaurant",
+    "storage_bucket": "cashierbot-for-restaurant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214911724146:android:7227d679015da1d531b0eb",
+        "android_client_info": {
+          "package_name": "com.example.cashier_bot_for_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2wKEu9GZYa8NyY5b7HSviveJDW1RepOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
